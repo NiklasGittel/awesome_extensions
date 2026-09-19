@@ -100,6 +100,8 @@ class MyHomePageState extends State<MyHomePage> {
               child: const Text('Padding Ext'),
             ),
 
+            20.0.heightBox,
+
             ///Spacing Extensions
             ElevatedButton(
               onPressed: () {
@@ -107,7 +109,6 @@ class MyHomePageState extends State<MyHomePage> {
               },
               child: const Text('Spacing Ext'),
             ),
-
 
             20.0.heightBox,
 
